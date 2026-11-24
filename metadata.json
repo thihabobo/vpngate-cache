@@ -1,14 +1,19 @@
 {
-  "last_updated_utc": "2026-11-24T06:13:15Z",
-  "total_servers": 100,
-  "japan_servers": 47,
+  "last_updated_utc": "2026-11-24T18:02:31Z",
+  "total_servers": 98,
+  "japan_servers": 44,
   "countries": {
-    "JP": 47,
-    "US": 2,
-    "KR": 37,
-    "RU": 7,
-    "TH": 6,
-    "AE": 1
+    "JP": 44,
+    "US": 3,
+    "KR": 31,
+    "VN": 3,
+    "ID": 2,
+    "RU": 8,
+    "TH": 3,
+    "RO": 1,
+    "AU": 1,
+    "IN": 1,
+    "HR": 1
   },
   "status": "healthy"
 }
